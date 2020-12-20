@@ -28,3 +28,8 @@
 	url = https://github.com/forkonlp/DNH4
 	shallow = true
 	registered = true
+[submodule "hashmap"]
+	path = hashmap
+	url = https://github.com/nathan-russell/hashmap
+	shallow = true
+	registered = false
