@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "N2H4"]
+	path = N2H4
+	url = https://github.com/forkonlp/n2h4
+	shallow = true
+	registered = true
