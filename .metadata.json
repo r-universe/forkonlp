@@ -1,6 +1,18 @@
 [
   {
+    "package": "newspaper"
+  },
+  {
     "package": "N2H4",
     "oncran": true
+  },
+  {
+    "package": "KoSpacing"
+  },
+  {
+    "package": "KoNLP"
+  },
+  {
+    "package": "DNH4"
   }
 ]
