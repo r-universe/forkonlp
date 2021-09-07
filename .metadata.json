@@ -17,6 +17,6 @@
   },
   {
     "package": "DNH4",
-    "oncran": false
+    "oncran": true
   }
 ]
