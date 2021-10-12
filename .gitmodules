@@ -18,6 +18,11 @@
 	url = https://github.com/forkonlp/N2H4
 	shallow = true
 	registered = true
+[submodule "KoSpacing"]
+	path = KoSpacing
+	url = https://github.com/forkonlp/KoSpacing
+	shallow = true
+	registered = true
 [submodule "KoNLP"]
 	path = KoNLP
 	url = https://github.com/forkonlp/KoNLP
