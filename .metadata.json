@@ -6,7 +6,8 @@
     "package": "newspaper"
   },
   {
-    "package": "N2H4"
+    "package": "N2H4",
+    "oncran": false
   },
   {
     "package": "KoSpacing"
