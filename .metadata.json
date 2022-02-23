@@ -7,7 +7,7 @@
   },
   {
     "package": "N2H4",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "KoSpacing"
