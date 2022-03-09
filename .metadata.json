@@ -16,6 +16,7 @@
     "package": "KoNLP"
   },
   {
-    "package": "DNH4"
+    "package": "DNH4",
+    "oncran": false
   }
 ]
