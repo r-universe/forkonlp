@@ -23,6 +23,11 @@
 	url = https://github.com/forkonlp/KoSpacing
 	shallow = true
 	registered = true
+[submodule "hashmap"]
+	path = hashmap
+	url = https://github.com/forkonlp/hashmap
+	shallow = true
+	registered = true
 [submodule "KoNLP"]
 	path = KoNLP
 	url = https://github.com/forkonlp/KoNLP
@@ -33,8 +38,3 @@
 	url = https://github.com/forkonlp/DNH4
 	shallow = true
 	registered = true
-[submodule "hashmap"]
-	path = hashmap
-	url = https://github.com/nathan-russell/hashmap
-	shallow = true
-	registered = false

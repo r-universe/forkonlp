@@ -13,6 +13,9 @@
     "package": "KoSpacing"
   },
   {
+    "package": "hashmap"
+  },
+  {
     "package": "KoNLP"
   },
   {
