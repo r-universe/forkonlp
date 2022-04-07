@@ -16,6 +16,9 @@
     "package": "KoNLP"
   },
   {
+    "package": "NIADic"
+  },
+  {
     "package": "DNH4",
     "oncran": true
   }

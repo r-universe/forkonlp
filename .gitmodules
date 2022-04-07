@@ -28,6 +28,11 @@
 	url = https://github.com/forkonlp/KoNLP
 	shallow = true
 	registered = true
+[submodule "NIADic"]
+	path = NIADic
+	url = https://github.com/forkonlp/NIADic
+	shallow = true
+	registered = true
 [submodule "DNH4"]
 	path = DNH4
 	url = https://github.com/forkonlp/DNH4
