@@ -3,9 +3,6 @@
     "package": "presidentSpeech"
   },
   {
-    "package": "newspaper"
-  },
-  {
     "package": "N2H4",
     "oncran": true
   },
@@ -14,9 +11,6 @@
   },
   {
     "package": "KoNLP"
-  },
-  {
-    "package": "NIADic"
   },
   {
     "package": "DNH4",
