@@ -3,9 +3,9 @@
 	url = https://github.com/forkonlp/universe
 	shallow = true
 	branch = HEAD
-[submodule "presidentSpeech"]
-	path = presidentSpeech
-	url = https://github.com/forkonlp/presidentSpeech
+[submodule "komment"]
+	path = komment
+	url = https://github.com/forkonlp/komment
 	shallow = true
 	registered = true
 [submodule "N2H4"]
