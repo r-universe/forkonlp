@@ -7,9 +7,6 @@
     "oncran": true
   },
   {
-    "package": "KoNLP"
-  },
-  {
     "package": "DNH4",
     "oncran": true
   }
