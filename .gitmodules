@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/forkonlp/universe
-	shallow = true
 	branch = HEAD
-[submodule "komment"]
-	path = komment
-	url = https://github.com/forkonlp/komment
-	shallow = true
-	registered = true
-[submodule "N2H4"]
-	path = N2H4
-	url = https://github.com/forkonlp/N2H4
-	shallow = true
-	registered = true
 [submodule "DNH4"]
 	path = DNH4
 	url = https://github.com/forkonlp/DNH4
-	shallow = true
-	registered = true
+[submodule "N2H4"]
+	path = N2H4
+	url = https://github.com/forkonlp/N2H4
+[submodule "komment"]
+	path = komment
+	url = https://github.com/forkonlp/komment
