@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/forkonlp/universe
+	url = https://github.com/forkonlp/forkonlp.r-universe.dev
 	branch = HEAD
 [submodule "DNH4"]
 	path = DNH4
